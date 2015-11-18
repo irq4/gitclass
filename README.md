@@ -1,1 +1,4 @@
 # gitclass
+
+
+new line
